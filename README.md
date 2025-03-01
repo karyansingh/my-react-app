@@ -13,7 +13,6 @@ This is a React application that allows users to:
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/karyansingh/my-react-app.git
-   cd react-multi-step-app
    ```
 2. **Install Dependencies:**
    ```sh
